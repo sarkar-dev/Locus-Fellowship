@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+
+}
+
+.locus  {
+    color: blue;      ,!--  //this is for class -->
+}
+
+#locus1 {
+    color:brown;        //this is for id
+}
+
+h1 {
+    border: 1px solid rgb(167, 43, 43);)   //solid,dotted and so on
+    padding: 10px; //padding: 0 0 10px 0;
+    margin: 10px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
